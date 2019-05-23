@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Provider } from './AuthContext'
-import { Auth, TMTAuth } from '../Auth'
+import { Auth} from '../Auth'
+import TMTAuth from "../AuthHelper";
 
 /**
  * React component which is wrapper over provider of react context api.

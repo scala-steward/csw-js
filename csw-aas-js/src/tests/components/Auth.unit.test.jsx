@@ -1,4 +1,4 @@
-import { TMTAuth } from '../../components/Auth'
+import TMTAuth from '../../components/AuthHelper'
 import KeyCloak from 'keycloak-js'
 import { resolveAAS } from '../../components/AASResolver'
 
