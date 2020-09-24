@@ -6,7 +6,7 @@ object Libs {
   val `scalatest`         = "org.scalatest"                            %% "scalatest"         % "3.0.8" //Apache License 2.0
   val `selenium-java`     = "org.seleniumhq.selenium"                  % "selenium-java"      % "3.141.59"
   val `embedded-keycloak` = "com.github.tmtsoftware.embedded-keycloak" %% "embedded-keycloak" % "9374d69"
-  val `webdrivermanager`  = "io.github.bonigarcia"                     % "webdrivermanager"   % "4.0.0"
+  val `webdrivermanager`  = "io.github.bonigarcia"                     % "webdrivermanager"   % "4.2.2"
 }
 
 object CSW {
